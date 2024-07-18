@@ -24,6 +24,6 @@ This project is a currency converter application built using React and Vite.
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Parag0712/currency-app.git
 cd currency-app
 npm install
